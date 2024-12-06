@@ -4,7 +4,7 @@
     import java.util.ArrayList;
     import java.util.Date;
 
-class CollegeHostelBookingSystem extends Frame {
+    class CollegeHostelBookingSystem extends Frame {
     CardLayout card;
     Panel mainPanel;
 
