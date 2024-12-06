@@ -1,8 +1,8 @@
-import java.awt.*;
-import java.awt.event.*;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
+    import java.awt.*;
+    import java.awt.event.*;
+    import java.text.SimpleDateFormat;
+    import java.util.ArrayList;
+    import java.util.Date;
 
 class CollegeHostelBookingSystem extends Frame {
     CardLayout card;
